@@ -3,7 +3,7 @@ package com.mycompany.app;
 import java.util.Random;
 
 /**
- * Hello world!
+ * Hello world! Comment added
  */
 public class App
 {
